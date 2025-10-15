@@ -1,6 +1,6 @@
 # Build your own SQLite
 
-## Tasks:
+## TASKS:
 
 1. [ ] Print page size
 2. [ ] Print number of tables
